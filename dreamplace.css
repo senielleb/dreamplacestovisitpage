@@ -34,7 +34,7 @@ nav a {
     background-color:  #33272a; 
     font-size: 15px;
     border-radius: 0px 0px 20px 20px;
-    border: 3px solid #f2f7f5; 
+    border: 3px solid #f2f7f5;  /* Change the color as needed */
     border-top: none;
 }
 
@@ -91,6 +91,7 @@ nav a:hover {
 .whole-images{
     margin:50px;
     text-align: center;
+
 }
 
 .image {
@@ -101,7 +102,7 @@ img {
     width: 350px;
     height:600px;
     padding: 10px;
-    margin:10px;
+    margin:15px;
     background-color:#f2f7f5;
     box-shadow: 0px 1px 5px rgba(0.1, 0, 0, 0.1);
 }
